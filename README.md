@@ -1,5 +1,5 @@
 # node-CRUD
-CRUD demo with node, express and mongo
+CRUD demo with Node, Express and Mongo
 - M - mongo
 - E - express
 - A - angular (Not used)
